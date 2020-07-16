@@ -1,0 +1,57 @@
+question_id	full_question	terse_question
+StartDate	Start Date	Start Date
+EndDate	End Date	End Date
+Status	Response Type	Response Type
+IPAddress	IP Address	IP Address
+Progress	Progress	Progress
+Duration (in seconds)	Duration (in seconds)	Duration (in seconds)
+Finished	Finished	Finished
+RecordedDate	Recorded Date	Recorded Date
+ResponseId	Response ID	Response ID
+RecipientLastName	Recipient Last Name	Recipient Last Name
+RecipientFirstName	Recipient First Name	Recipient First Name
+RecipientEmail	Recipient Email	Recipient Email
+ExternalReference	External Data Reference	External Data Reference
+LocationLatitude	Location Latitude	Location Latitude
+LocationLongitude	Location Longitude	Location Longitude
+DistributionChannel	Distribution Channel	Distribution Channel
+UserLanguage	User Language	User Language
+Q15_1	How many conferences and/or workshops did you attend in 2019? - Select one	Number of conferences
+Q16_1	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 1"	Distance Trip 1
+Q16_2	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 2"	Distance Trip 2
+Q16_3	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 3"	Distance Trip 3
+Q16_4	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 4"	Distance Trip 4
+Q16_5	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 5"	Distance Trip 5
+Q16_6	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 6"	Distance Trip 6
+Q16_7	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 7"	Distance Trip 7
+Q16_8	"For each conference/workshop in 2019, indicate the distance (in either miles or km) that you traveled and your mode of transit. e.g.: Conference 1: 500 (train). The next question will ask you to specify the units (kilometers or miles)  If you attended any conferences virtually, please include them and include ""0 (online)"".  You may find the following calculator useful: https://www.distancecalculator.net/  You may skip this question if you are pressed for time. - Conference 8"	Distance Trip 8
+Q18	Please indicate the unit of measurement of the above distances.	Distance units
+Q9_1	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Distance from your home	Distance from your home
+Q9_2	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Monetary cost (for travel, lodging & registration)	Monetary cost
+Q9_3	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Prominence/prestige of conference	Prestige
+Q9_4	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Relevance to your research	Relevance to research
+Q9_5	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Opportunities for networking/socializing	Networking
+Q9_6	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Desirability of location	Location
+Q9_7	Which of these factors is important to you when deciding whether to attend a conference, assuming an in-person conference format? - Diversity and accessibility of conference	Accessibility
+Q10_1	How  much do you agree or disagree with the following statement:  Academics  should enact policies that would reduce the negative environmental  impact of conference travel. - 1	Academics should enact policies to reduce environmental impact
+Q12_1	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Converting standard conferences to 100% virtual attendance	100% virtual
+Q12_2	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Converting standard conferences to blend of in-person and virtual attendance (e.g. 30/70 or 20/80)	Hybrid
+Q12_3	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Converting standard conferences to a satellite model (decentralized meetings occur at the same time, e.g. one in Central Europe and another in Asia that are linked via video conferencing)	Satellite
+Q12_4	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Requirement for carbon offsetting of travel (from e.g. funding agency, university, or professional society)	Carbon offsetting
+Q12_5	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Changing locations of in-person conferences to highly central locations (e.g. London, New York vs. Cardiff, Buffalo)	Central locations
+Q12_6	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Universities instituting emissions limits (e.g. per person or department, factoring in seniority, location, etc.)	Emissions limits
+Q12_7	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - University policy changes to require ground transit (train, bus, car) for shorter distances (e.g. < 300 mi)	Ground transit
+Q12_8	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Universities instituting carbon taxes*	Carbon taxes
+Q12_9	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Collocating smaller conferences with larger conferences (e.g. a meeting at the same time/place as CogSci, Psychonomic Society)	Collocating
+Q12_10	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Reduction in the number of conferences	Fewer confs
+Q12_11	How do you feel about the following proposed ways of making conferences more environmentally sustainable? - Incentivizing attendance of regional conferences	More regional
+Q6_1	In 2019, do you think you traveled more or less than your peers? - Do you think you travel more or less than your peers?	Relative travel
+Q7_1	Relative to your habits in 2019, how much do you wish you traveled for work? - How much do you wish you traveled for work?	Desired travel
+Q8	If you would like to, please elaborate on your responses above.	Elaboration
+Q17	Are you working or studying in one (or more) of the following fields: cognitive science, psychology, linguistics, neuroscience, anthropology, computer science?	Do you work in a cognitive science field?
+Q2	How old are you?	Age
+Q3	At what stage are you in your academic career?	Career stage
+Q4	Are you a member of a minoritized group (e.g. gender, sexual, racial, ethnic)?	Minoritized status
+Q5	What type of region do you live in?	Region
+Q23	Do you face barriers to online conference attendance (e.g. childcare, internet connection speed, etc.)?	Barriers?
+Q14	What part of the world do you live in?	Part of world
