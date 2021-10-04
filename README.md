@@ -1,5 +1,5 @@
 # Data from Rissman and Jacobs (2020)
-## _submitted as a letter to Cognitive Science_
+## _Published in Collabra: Psychology_
 
 There are three files in this repository: `distances.tsv` and `responses.tsv`, which detail participant responses, and `questions.tsv` that provides a key to the question text.
 
